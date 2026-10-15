@@ -25,7 +25,7 @@ Lab 06: Checkout & Orders (Shipping Validation, Server Total Calculation, Razorp
 ## 📁 Repository Structure
 
 ```text
-ShopKart-Pakka-Final/
+ShopKart/
 ├── backend/
 │   ├── config/
 │   │   └── razorpay.js            # Razorpay SDK configuration
